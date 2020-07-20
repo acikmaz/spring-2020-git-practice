@@ -8,3 +8,7 @@ Tesla
 honda
 bentley
 Jeep
+Hyundai
+Lexus
+Nissan
+Ferrari
