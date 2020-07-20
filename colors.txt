@@ -6,3 +6,4 @@ bunlari
 pull yapcam to intellij
 bunlarda manuel
 olarak gelecek
+alicikmaz
