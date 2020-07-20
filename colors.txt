@@ -1,13 +1,8 @@
 red
 blue
 yellow
-yeni ekledim 
-bunlari
-pull yapcam to intellij
-bunlarda manuel
-olarak gelecek
-alicikmaz
-ssedaf  dadgt
-ali
-adadaddfgghjk
-alik
+orange
+pink
+white
+###brown
+purple
