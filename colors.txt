@@ -1,6 +1,9 @@
 red
 blue
 yellow
+purple greenish
+yellowish
+purpleish
 orange
 pink
 white
