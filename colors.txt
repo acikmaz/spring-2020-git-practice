@@ -4,3 +4,5 @@ yellow
 yeni ekledim 
 bunlari
 pull yapcam to intellij
+bunlarda manuel
+olarak gelecek
